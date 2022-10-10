@@ -1,0 +1,14 @@
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\obj\Debug\netcoreapp3.1\BarConsole.csproj.AssemblyReference.cache
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\obj\Debug\netcoreapp3.1\BarConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\obj\Debug\netcoreapp3.1\BarConsole.AssemblyInfoInputs.cache
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\obj\Debug\netcoreapp3.1\BarConsole.AssemblyInfo.cs
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\obj\Debug\netcoreapp3.1\BarConsole.csproj.CoreCompileInputs.cache
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\bin\Debug\netcoreapp3.1\BarConsole.exe
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\bin\Debug\netcoreapp3.1\BarConsole.deps.json
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\bin\Debug\netcoreapp3.1\BarConsole.runtimeconfig.json
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\bin\Debug\netcoreapp3.1\BarConsole.runtimeconfig.dev.json
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\bin\Debug\netcoreapp3.1\BarConsole.dll
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\bin\Debug\netcoreapp3.1\BarConsole.pdb
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\obj\Debug\netcoreapp3.1\BarConsole.dll
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\obj\Debug\netcoreapp3.1\BarConsole.pdb
+C:\Users\Weeser\Downloads\Trabajo\BootCamp\Proyect\BarProyect\BarConsole\obj\Debug\netcoreapp3.1\BarConsole.genruntimeconfig.cache
